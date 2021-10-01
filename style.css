@@ -1,0 +1,31 @@
+
+td,th{
+    border-bottom: 2px solid black;
+    border-right:  2px solid black;
+}
+
+label,input,textarea {
+    margin-bottom: 10px;
+}
+label {
+    margin-right: 5px;
+}
+textarea { 
+    display: block;
+}
+
+table { 
+    width: 50%;
+}
+.icon{
+    width: 40px;
+    margin-right: 5px;
+}
+#profilePicture{
+    width: 20%;
+    border-radius: 50%;
+    
+}
+.contactLinks{
+    margin-right: 20px;
+}
